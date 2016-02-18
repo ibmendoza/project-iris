@@ -6,7 +6,7 @@ Why Iris?
 - Messaging (publish/subscribe, broadcast, asynchronous)
 - Built-in clustering (peer-to-peer DHT as easy as one command!)
 
-Download latest release [here](https://github.com/ibmendoza/project-iris/releases)
+Latest build using Go 1.6 [here](https://github.com/ibmendoza/project-iris/releases)
 
 Official site at [https://github.com/project-iris](https://github.com/project-iris)
 
